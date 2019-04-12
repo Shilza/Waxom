@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shilza/waxom"
+    "url": "https://github.com/shilza/Waxom"
   },
   "keywords": [
     "React"
@@ -40,5 +40,5 @@
   "bugs": {
     "url": "https://github.com/Shilza/Shopper/issues"
   },
-  "homepage": "https://shilza.github.io/waxom"
+  "homepage": "."
 }

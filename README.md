@@ -1,6 +1,6 @@
 #Waxom
 
-See [demo](https://shilza.github.io/waxom)
+See [demo](https://shilza.github.io/Waxom)
 
 ### `npm start`
 

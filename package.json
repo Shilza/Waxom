@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,7 +38,7 @@
   ],
   "author": "Shilza",
   "bugs": {
-    "url": "https://github.com/Shilza/Shopper/issues"
+    "url": "https://github.com/Shilza/Waxom/issues"
   },
-  "homepage": "."
+  "homepage": "https://shilza.github.io/Waxom/"
 }

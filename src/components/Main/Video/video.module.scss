@@ -1,0 +1,37 @@
+
+.container {
+  background-size: cover;
+  background: url('./videoBackground.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding-top: 280px;
+  padding-bottom: 200px;
+  text-align: center;
+
+  font-size: 14px;
+  font-weight: normal;
+
+  img {
+    height: 70px;
+  }
+
+  h3 {
+    font-size: 2em;
+    color: #fff;
+    font-weight: 700;
+  }
+
+  p {
+    color: #c9cacc;
+    line-height: 1.5em;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    padding: 0 10px;
+  }
+
+  span {
+    color: #c7b299;
+  }
+}

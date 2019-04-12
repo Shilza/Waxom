@@ -1,0 +1,19 @@
+
+.menu {
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  border: none;
+
+  &:hover div {
+    background-color: #baa790;
+  }
+
+  div {
+    width: 30px;
+    height: 2px;
+    background-color: white;
+    margin-top: 5px;
+    transition: 0.3s;
+  }
+}

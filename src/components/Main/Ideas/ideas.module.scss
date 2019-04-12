@@ -1,0 +1,37 @@
+
+.container {
+  background-color: #fbfaf8;
+  padding: 90px 0;
+  text-align: center;
+
+  img {
+    width: 100%;
+  }
+}
+
+.sectionTitle {
+  margin-bottom: 90px;
+  padding: 0 10px;
+
+  h2 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+  }
+
+  p {
+    color: #8c8c8c;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+}
+
+.footer {
+  margin-top: 40px;
+  height: 100px;
+  background: linear-gradient(to right, #211B19 0%, #3D2A22 68%, #4E3427 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

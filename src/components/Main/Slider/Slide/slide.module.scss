@@ -1,0 +1,37 @@
+
+.slide {
+  background-image: url('./mainBackground.jpg');
+  background-size: cover;
+  height: 100%;
+  min-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+  scroll-snap-align: start;
+
+  p {
+    color: gray;
+    color: #a2a3a5;
+    line-height: 1.3em;
+    margin: 15px 15px 30px;
+    font-size: 16px;
+  }
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-weight: 300;
+  }
+}
+
+.description {
+  font-size: 2em;
+  font-weight: 800;
+}

@@ -1,0 +1,45 @@
+
+$hoveredColor: #baa790;
+
+.navigation {
+  display: flex;
+  font-size: 1.2em;
+
+  li {
+    color: #fff;
+    transition: 0.4s;
+    margin-right: 15px;
+  }
+
+  li:hover {
+    color: $hoveredColor;
+    cursor: pointer;
+  }
+
+  li:last-child {
+    img {
+      margin-right: 15px;
+    }
+
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .navigation {
+    flex-direction: column;
+
+    li, li:last-child {
+      margin: 15px auto;
+    }
+  }
+}
+
+.icon {
+  height: 25px;
+  transition: 0.3s;
+
+  &:hover {
+    filter: brightness(0) invert(1);
+  }
+}

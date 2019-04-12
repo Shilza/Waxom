@@ -1,0 +1,25 @@
+
+.sliderContainer {
+  position: relative;
+  height: 100vh;
+}
+
+.slider {
+  position: relative;
+  height: 100%;
+  scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(100vw);
+  scroll-snap-type: x mandatory;
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+
+
+  -ms-overflow-style: none;
+  overflow: -moz-scrollbars-none;
+  &::-webkit-scrollbar {
+    width: 0;
+  }
+  scrollbar-width: none;
+}

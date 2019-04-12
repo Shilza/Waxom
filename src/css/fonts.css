@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Roboto-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Roboto-Regular.ttf'); /* IE9 Compat Modes */
+    src: local('Roboto-Regular'), local('Roboto-Regular'),
+    url('../fonts/Roboto-Regular.ttf') format('ttf') /* Modern Browsers */
+}

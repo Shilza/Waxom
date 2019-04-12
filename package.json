@@ -1,17 +1,24 @@
 {
-  "name": "waxom",
+  "name": "Waxom",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "css-scroll-snap-polyfill": "^0.1.2",
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-pretty-drawer": "^0.2.0",
+    "react-responsive": "^6.1.1",
     "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d public"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -21,5 +28,17 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shilza/waxom"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Shilza",
+  "bugs": {
+    "url": "https://github.com/Shilza/Shopper/issues"
+  },
+  "homepage": "https://shilza.github.io/waxom"
 }

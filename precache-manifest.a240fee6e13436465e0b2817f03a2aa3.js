@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/Waxom/static/media/project-4.d029454e.jpg"
   },
   {
-    "revision": "835d4ee07f1da91ef2f3",
-    "url": "/Waxom/static/css/main.0063bb45.chunk.css"
+    "revision": "0ec6eef75dc45b5d036f",
+    "url": "/Waxom/static/css/main.1572dd78.chunk.css"
   },
   {
-    "revision": "cd02093709f7cfe43d8a",
-    "url": "/Waxom/static/js/runtime~main.6b974fef.js"
+    "revision": "3b56964ab8a67ef117c3",
+    "url": "/Waxom/static/js/runtime~main.68ccfd21.js"
   },
   {
-    "revision": "cc4bb18faa2f41019b4c",
-    "url": "/Waxom/static/js/2.6d6dce9b.chunk.js"
+    "revision": "35f8b29f533b4ae57982",
+    "url": "/Waxom/static/js/2.c2e06cea.chunk.js"
   },
   {
     "revision": "b519cb8c4f4f398dfbf7ae5e277ec3f0",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/Waxom/static/media/project-3.51281f55.jpg"
   },
   {
-    "revision": "835d4ee07f1da91ef2f3",
-    "url": "/Waxom/static/js/main.67165560.chunk.js"
+    "revision": "0ec6eef75dc45b5d036f",
+    "url": "/Waxom/static/js/main.26df2562.chunk.js"
   },
   {
     "revision": "0d8b238cfd5297d3c6d036c6610c068c",
@@ -160,7 +160,7 @@ self.__precacheManifest = [
     "url": "/Waxom/static/media/Roboto-Regular.3e1af3ef.ttf"
   },
   {
-    "revision": "36d91c229cc8099aa118ec6e4bcd29d6",
+    "revision": "32640d2012130fed8a1fde65bb1cfef4",
     "url": "/Waxom/index.html"
   }
 ];
